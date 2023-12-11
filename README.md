@@ -1,3 +1,3 @@
 # mayur-w
 data science 
-#this is for batch 89 for you will find doffrrent datsect
+#This is for batch 89 for you will find diffrent dataset
